@@ -1,1 +1,6 @@
-# Xray_data
+# A novel lightweight approach to COVID-19 diagnostics based on chest X-ray images
+*Agata Giełczyk, Anna Marciniak, Martyna Tarczewska, Sylwester M. Kloska, Alicja Harmoza, Zbigniew Serafin, and Marcin Woźniak*
+
+**Abstract:** Background: This paper presents a novel lightweight approach based on machine learning methods supporting COVID-19 diagnostics based on X-ray images. Presented schema offers effective and quick diagnosis of COVID-19. Methods: Real data (X-ray images) from hospital patients was used in this study. All labels, namely COVID-19 positive and negative, were confirmed by PCR test. Feature extraction was performed using a convolutional neural network and the subsequent classification of samples using Random Forest, XGBoost, LightGBM, and CatBoost. Results: The LightGBM model turned out to be the most effective in classifying patients on the basis of X-ray images, with Accuracy of 1.00, Precision 1.00, Recall 1.00 and F1-score 1.00. Conclusion: The proposed schema could potentially be used as a support for radiologists to improve the diagnostic process. The presented approach is efficient and fast. Moreover, it is not excessive complex computationally. 
+
+**Keywords:** features extraction; X-ray images; COVID-19; machine learning; image processing
